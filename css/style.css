@@ -1,0 +1,239 @@
+
+body{
+	margin: 0px;
+	
+}
+.b{
+	background-image:url("../images/bgm6.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	margin:0px;
+	padding-top: 120px;	
+	padding-left: 200px;
+	height: 485px;	
+}
+
+
+
+
+#menu{
+	padding-left: 1030px;
+}
+.a{
+	height: 50px;
+	 /* width:100%; */
+	 
+	 width:1536px;
+	background-color: rgb(13, 13, 142);
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-image: url("../images/restaurant-3-64.png");
+	background-repeat: no-repeat;
+	background-size: 50px 50px;
+	background-position:180px;
+} 
+.a label{
+	color:white;
+	font-size: 35px;	 
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.a a{
+	color: white;
+	font-size: 18px;
+	margin-left:85px;
+}
+.c{
+	background-color:grey;
+	float: right;
+	height: 50px;
+	/* width:100%; */
+	width:1536px;
+	
+}
+pre{
+	margin: 0px;
+}
+.c a{
+	margin-left: 30px;
+	display:block;
+	margin-top: 15px;
+	text-decoration: none;
+	color:black;
+}
+
+ 
+
+
+ul{
+	display: inline-block;
+	margin-top: 40px;
+} 
+
+
+
+#heading{
+	font-size: 30px;
+	margin-left: 40px;
+}
+#cartStatus{
+	color:rgb(42, 150, 42);
+	font-size: 18px;
+	margin-left: 42px;
+}
+
+#cartAdd{
+	color:rgb(42, 150, 42);
+	font-size: 18px;
+	margin-left: 340px;
+}
+
+li{
+	text-decoration: none;
+	
+	/* list-style-image: url("../images/listpic.PNG"); */
+	margin-bottom: 10px;
+	font-size: 18px;
+	/* color:rgb(37, 2, 54); */
+	list-style-type:none;
+}
+
+
+
+ .name {
+	text-align: left;
+	margin-right:220px;
+
+} 
+
+.freeDel{
+	text-align: center;
+	margin-right: 20px;
+}
+.price{
+	text-align: right;
+	margin-right: 20px;
+}
+
+.cat{
+	text-align: center;
+	margin-right: 30px;
+}
+
+.action{
+	text-align: center;
+	
+}
+
+.action a{
+	
+		color:black;
+		display: block;
+		
+}
+#headingAction{
+	margin-top: 10px;
+}
+
+
+.cartPrice{
+	text-align: right;
+}
+
+.dol{
+	text-align: center;
+	margin: 0px;
+}
+.active{
+	text-align: center;
+	margin: 0px;
+}
+.mainName{
+	text-align: left;
+	margin-right:150px;
+
+}
+
+.adminFreeDel{
+	margin: 0px;
+}
+
+.adminPrice{
+	margin: 0px;
+	text-align: right;
+}
+.adminFreeDel{
+	margin: 0px;
+	text-align:center;
+}
+
+.search{
+	font-size: 15px;
+	margin-left: 40px;
+	margin-right: 90px;
+}
+#searchBox{
+	width:795px;
+	height: 20px;
+	margin-left: 40px;
+	margin-bottom: 20px;
+	
+}
+#boxPrice{
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 25px;
+	height: 20px;
+
+}
+#boxDol{
+	margin-left: 80px;
+	width:170px;
+	height: 20px;
+
+}
+#boxCat{
+	margin-left: 80px;
+	width:160px;
+	height: 20px;
+
+}
+#boxDel{
+	
+	margin-left: 40px;
+	width: 20px;
+	height: 20px;
+	border: solid black;
+}
+.checkboxFreeDel{
+font-size: 17px;
+}
+
+
+#btn{
+	margin-left: 45px;
+	margin-top: 30px;
+	height:50px;
+	width:150px;
+	color:white;
+	font-weight: bold;
+	font-size: 18px;
+	background-color: rgb(13, 13, 142);
+	border: 0px;
+	outline: 0px;
+}
+label{
+	font-weight: bold;
+	
+	
+}
+.boxActive{
+	/* margin-top: 10px; */
+	height:15px ;
+	width: 15px;
+}
+.editCat{
+	margin-left: 70px;
+}
+
