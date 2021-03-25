@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to right,rgb(53, 211, 53),rgb(255, 81, 0));
+    text-align: center;
+    text-transform:uppercase;
+    /* top: 15%; */
+}
+
+h1{
+    letter-spacing:40px;
+
+    font-size: 60px;
+}
+
+
+h2{
+    letter-spacing:10px;
+}
+
+h3{
+    letter-spacing:5px;
+}
+input{
+    border:solid black;
+    background: fixed;
+    outline: 0px;
+}
